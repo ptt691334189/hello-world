@@ -7,3 +7,6 @@ dst[i]=src[i];
 dst[l]="\0";
 return dst;
 }
+/*
+B21032405潘婷婷
+*/
